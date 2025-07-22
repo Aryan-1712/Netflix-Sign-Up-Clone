@@ -406,3 +406,9 @@
     font-size: 13px;
     margin-left: 150px;
 }
+footer{
+    color: gray;
+    font-size: 12px;
+    text-align: center;
+    padding: 20px;
+}
